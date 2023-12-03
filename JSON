@@ -10,6 +10,7 @@
             "OpenOnStartOnlyNewPlayers": true,
             "UpdateInterval": 12
         },
+
         "tabs": [
             {
                 "tab1": {
@@ -17,32 +18,23 @@
                     "buttontext": "Welcome",
                     "title1": "Welcome to Ruthless Gaming",
                     "text1": "
-                    10x all. 300 Max Dino. 135 Max Player.
-                    Restarts happen daily at 6:45 PM EST.
-                    
-                    Rules:
-                    Building - We currently do not have rules in place for the size of player bases, but please be respectful. Our
-                    server is very active and therefore means there aren't a lot of places to build. Please be mindful when 
-                    building your base so new players have a spot to build. If we get complaints of render/lag issues, we will
-                    ask you to down-size and/or move locations.
-                    ───────────────────────────────────────────────────────────────────────────────────────────────
-                    Stealing - Do not take items, resources, or creatures that belong to other players without their permission.
-                    ──────────────────────────────────────────────────────────────────────────────────────────────
-                    Stucture Spamming - Do NOT structure spam. If we find any structure spam(pillars, foundations, beds, etc), you will be warned
-                    and if you continue to spam structures especially to stop spawns, you will be structure wiped.
-                    ──────────────────────────────────────────────────────────────────────────────────────────────
-                    Griefing - Refrain from participating in actions that are intended to disrupt the gameplay or progress of other players, 
-                    such as purposely leading hostile creatures to someone else's base or causing damage to their bases/dinos.
-                    ──────────────────────────────────────────────────────────────────────────────────────────────
-                    Blocking Areas - Ensure an unobstructed environment by refraining from building structures near obelisks, loot drops, 
-                    spawn points, and essential resource locations to facilitate smooth character transfers, new player entry, and equitable 
-                    access to vital materials for progression. This includes oil, crystal, oil, odsidian, polymer and beaver dam locations.
-                    ───────────────────────────────────────────────────────────────────────────────────────────────
-                    Primal Items - Do NOT trade Primal Chaos progression items; this includes hide, blood, and especially kibble to players that have not
-                    reached the specific tier of items they are asking for. Do your due diligence.
-                    
-                    Feel free to join our official Discord linked below to connect with the community and share feedback. 
-                    If you have a problem in-game, please use the #support channel in our Discord!",
+                    Server Rules -
+
+                    1. Set a character name and tribe name in order to receive support via Discord.
+                    2. Be respectful; no toxicity/raciscm/discrimination, etc.
+                    3. Avoid logging off with important items; we can't support offline losses.
+                    4. When logging off, set dinos to passive and leave no more than 15 dinos out.
+                    5. Max base size is 30x30 foundations (gated areas count), 1 per player/tribe.
+                    6. No blocking artifacts or structures, no structure spamming and no building near obelisks.
+                    7. Do not trade Primal Chaos items without tier verification.
+                    8. Don't give away unwanted items/tames or unwanted shop items.
+                    9. Keep transmitter information private.
+                    10. No over-breeding; cryo/kill excess dinos.
+                    11. Do not leave dinos in caves or blocking cave entrances.
+                    12. Dinos must be set to passive if offline.
+
+                    Join the Discord to read the full list of rules in order to receive support for in-game issues. 
+                    If you have a problem in-game, please use the #support channel!",
                     "imageurl": "https://i.imgur.com/ovKEJIb.jpg"
                 }
             }
