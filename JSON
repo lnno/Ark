@@ -34,8 +34,14 @@
                     12. Dinos must be set to passive if offline.
 
                     Join the Discord to read the full list of rules in order to receive support for in-game issues. 
-                    If you have a problem in-game, please use the #support channel!",
-                    "imageurl": "https://i.imgur.com/3idkdC3.png"
+                    
+                    If you have a problem in-game, please use the #support channel!
+
+                    Access available kits by using /kit (eg. /kit starter).
+                    Access our in-game shop using /shop (eg. /buy wood 1).
+                    In order to view your available points, use /points.
+                    Purchasable kits are available in Discord.",
+                    "imageurl": "https://i.imgur.com/u1ITXOI.png"
                 }
             }
         ],
